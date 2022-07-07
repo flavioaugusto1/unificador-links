@@ -10,6 +10,7 @@ body#pink {
     --color-button: #ffffff;
     --bg-button-color: #4064c5;
     --border-img: 4px solid #00082F;
+      transition: background 400ms;
 }
 
 body#dark-pink{
@@ -17,6 +18,7 @@ body#dark-pink{
     --text-color: #FFFFFF;
     --bg-button-color: #a39df5;
     --border-img: 4px solid #a39df5;
+      transition: background 400ms;
 }
 
 body {
